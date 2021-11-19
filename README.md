@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarAlvarez06
 - 👀 I’m interested in software development, networking, Artificial Intelligence, and another things.
-- 🌱 I’m currently learning php, css, html.
+- 🌱 I’m currently learning Docker and Kubernetes!
 
 <!---
 OmarAlvarez06/OmarAlvarez06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
